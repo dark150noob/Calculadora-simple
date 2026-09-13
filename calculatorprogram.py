@@ -34,6 +34,6 @@ while True:
             print(round(num1, 2))
             continue
     else:
-        print("esa opción no está contemplada")
+        print("Esa opción no está contemplada.")
         break
     
